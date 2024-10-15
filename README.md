@@ -16,7 +16,7 @@
   </a>
 </div>
 
-- I'm currently an Software Engineering - BSc (Hons) 
+- I'm currently an Software Engineering - BSc (Hons) [READING]
 - I'm currently looking for internship
 - I’m interested in Software Development
 - A Full-Stack Developer
