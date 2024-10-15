@@ -8,21 +8,21 @@
   <a href="https://www.linkedin.com/in/aflal-inaaz-160b45227/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:musharraf.nazar02@gmail.com" align="center">
+  <a href="mailto:mohamedinaaz1@gmail.com" align="center">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="tel:0763724781" align="center">
+  <a href="tel:0770770728" align="center">
     <img src="https://img.shields.io/badge/Whatsapp-lightgreen?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
   </a>
 </div>
 
-- I'm currently an IT Undergraduate of University of Moratuwa
-- I'm currently a Software Engineer Intern at @WDAT
+- I'm currently an Software Engineering - BSc (Hons) 
+- I'm currently looking for internship
 - I’m interested in Software Development
 - A Full-Stack Developer
 - 📫 How to reach me : 
-      -⚡ Email     : musharraf.nazar02@gmail.com
-      -⚡ LinkedIn  : https://www.linkedin.com/in/ahamed-musharraf
+      -⚡ Email     : mohamedinaaz1@gmail.com
+      -⚡ LinkedIn  : https://www.linkedin.com/in/aflal-inaaz
   
 
 <h3 align="left">:hammer_and_wrench: Languages and Tools :</h3>
