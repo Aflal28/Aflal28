@@ -17,8 +17,7 @@
 </div>
 
 - I'm currently an Software Engineering - BSc (Hons) [READING]
-- I'm currently looking for internship
-- I’m interested in Software Development
+- I’m interested in Software Development and RPA Data Science
 - A Full-Stack Developer
 - 📫 How to reach me : 
       -⚡ Email     : mohamedinaaz1@gmail.com
